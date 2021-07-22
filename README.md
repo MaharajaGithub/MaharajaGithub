@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @MaharajaGithub
-- 👀 I’m interested in Python development
-- 🌱 I’m currently learning Python cources
-- 💞️ I’m looking to collaborate on python dev's
 
-<!---
-MaharajaGithub/MaharajaGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in Python development
+I’m currently learning Python, web development
+I’m looking to collaborate on projects that are using python.
+I'm on track for learning more about my cources,
+In my free time , i play piano, football and pursue writing as my hobbies.
+I love to hear country music.
